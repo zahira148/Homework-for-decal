@@ -1,0 +1,12 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+3-5 commands that I can use on my terminal are cd, ls, mv, dest_path, pwd. The languge that my computer terminal is in is Z shell.  
+2. Do you have pets? What kind?
+I have zero pets. 
+3. If you run across an error, what would your first course of action be?
+Revaluate the command that I used within the terminal in order to figure out a potential error or mistake I made. 
+4. Funniest thing that happened to you in high school.
+I got posted on a meme page and over 100 people from my school liked the post. 
+5. What is a python script? (Keep it simple)
+A python script is command to do an action. 
+
+
